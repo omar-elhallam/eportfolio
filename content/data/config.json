@@ -17,6 +17,14 @@
         "socialLinks": [
             {
                 "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://www.linkedin.com/in/omar-abdelmoti-el-hallam-73850a347/",
+                "icon": "linkedin",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
                 "url": "https://github.com/omar-elhallam",
